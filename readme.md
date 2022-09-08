@@ -2,4 +2,7 @@
 
 New text
 
-new some greate text
+Some text
+
+One more text
+fix2 changes
